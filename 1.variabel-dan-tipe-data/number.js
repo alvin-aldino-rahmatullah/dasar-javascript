@@ -1,18 +1,13 @@
-// Pada number bisa memakai konsep arithmatic operators digunakan untuk melakukan perhitungan matematika dasar
+// number adalah tipe data yang digunakan untuk merepresentasikan nilai numerik, baik bilangan bulat maupun bilangan desimal
 
 
 const a = 6;
 const b = 5;
 
-const penjumlahan = a + b; // penjumlahan
-const pengurangan = a - b; // pengurangan
-const perkalian = a * b; // perkalian
-const pembagian = a / b; // pembagian
-const sisaPembagian = a % b; // modulus atau sisa pembagian
+const hasil = a + b; 
+console.log("hasil dari a + b adalah: " + hasil);
 
-console.log("nilai a = 6 dan b = 5");
-console.log("jika dijumlah: " + penjumlahan);
-console.log("jika dikurang: " + pengurangan);
-console.log("jika dikali: " + perkalian);
-console.log("jika dibagi: " + pembagian);
-console.log("jika sisa pembagian: " + sisaPembagian);
+// number dapat digunakan dalam berbagai operasi matematika seperti penjumlahan, pengurangan, perkalian, pembagian, dan lain-lain.
+// dalam JavaScript, tipe data number mencakup bilangan bulat (integer) dan bilangan pecahan (floating-point).
+// contoh bilangan bulat: 1, 2, 3, -4, 0
+// contoh bilangan pecahan: 3.14, -0.5, 2.0
