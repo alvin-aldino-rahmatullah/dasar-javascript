@@ -15,3 +15,8 @@ console.log("hasil x - y =", hasilKurang);
 console.log("hasil x * y =", hasilKali);
 console.log("hasil x / y =", hasilBagi);
 console.log("hasil x % y =", hasilModulus);
+
+// 1. JavaScript membaca variabel x dan y
+// 2. JavaScript membaca operator aritmatika
+// 3. JavaScript melakukan perhitungan
+// 4. JavaScript menghasilkan NILAI NUMBER
