@@ -1,3 +1,6 @@
+// arithmetic expression adalah ekspresi yang melibatkan operasi matematika
+// hasil dari arithmetic expression adalah sebuah nilai numerik (number)
+
 const x = 20;
 const y = 4;
 
