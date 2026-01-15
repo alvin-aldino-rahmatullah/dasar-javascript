@@ -6,5 +6,4 @@ Tanpa conditional, program berjalan lurus dari atas ke bawah. Dengan conditional
 2. bereaksi terhadap kondisi tertentu
 3. meniru logika manusia
 
-Contoh logika manusia:
-“Jika umur ≥ 18, maka dewasa. Jika tidak, maka anak-anak.”
+Banyak sekali contoh conditional ini seperti, if, if-else, else-if dan shitch. Semua itu dipakai sesuai kondisi yang akan dilakukan
